@@ -1,7 +1,7 @@
 # CEFSimplifiedVS17
 A Visual Studio 2017 C# Windows Forms App (.NET Framework) project for testing ClickOnce. 
 
-The project uses NuGet package CefSharp.WinForms version 87.1.132
+The project uses NuGet package CefSharp.WinForms version 87.1.132 and opens a CefSharp WinForm and loads a website in the WinfForms' panel.
 
 Error "Could not load file or assembly'CefSharp.Core.Runtie.dll'." occurred on running the setup.exe created by clickOnce in Visual Studio 2017. The error did not occur in Visual Studio 2019.
 
